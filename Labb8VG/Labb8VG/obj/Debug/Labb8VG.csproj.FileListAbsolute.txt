@@ -1,0 +1,6 @@
+C:\Users\Housame\Documents\OOP\Labb8VG\Labb8VG\bin\Debug\Labb8VG.exe.config
+C:\Users\Housame\Documents\OOP\Labb8VG\Labb8VG\bin\Debug\Labb8VG.exe
+C:\Users\Housame\Documents\OOP\Labb8VG\Labb8VG\bin\Debug\Labb8VG.pdb
+C:\Users\Housame\Documents\OOP\Labb8VG\Labb8VG\obj\Debug\Labb8VG.csprojResolveAssemblyReference.cache
+C:\Users\Housame\Documents\OOP\Labb8VG\Labb8VG\obj\Debug\Labb8VG.exe
+C:\Users\Housame\Documents\OOP\Labb8VG\Labb8VG\obj\Debug\Labb8VG.pdb

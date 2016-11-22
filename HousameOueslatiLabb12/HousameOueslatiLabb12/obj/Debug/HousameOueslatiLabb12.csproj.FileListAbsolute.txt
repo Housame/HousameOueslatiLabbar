@@ -1,0 +1,6 @@
+C:\Users\Housame\Documents\OOP\HousameOueslatiLabb12\HousameOueslatiLabb12\bin\Debug\HousameOueslatiLabb12.exe.config
+C:\Users\Housame\Documents\OOP\HousameOueslatiLabb12\HousameOueslatiLabb12\bin\Debug\HousameOueslatiLabb12.exe
+C:\Users\Housame\Documents\OOP\HousameOueslatiLabb12\HousameOueslatiLabb12\bin\Debug\HousameOueslatiLabb12.pdb
+C:\Users\Housame\Documents\OOP\HousameOueslatiLabb12\HousameOueslatiLabb12\obj\Debug\HousameOueslatiLabb12.csprojResolveAssemblyReference.cache
+C:\Users\Housame\Documents\OOP\HousameOueslatiLabb12\HousameOueslatiLabb12\obj\Debug\HousameOueslatiLabb12.exe
+C:\Users\Housame\Documents\OOP\HousameOueslatiLabb12\HousameOueslatiLabb12\obj\Debug\HousameOueslatiLabb12.pdb

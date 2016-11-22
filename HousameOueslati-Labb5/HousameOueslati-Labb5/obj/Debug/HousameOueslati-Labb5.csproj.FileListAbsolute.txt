@@ -1,0 +1,8 @@
+C:\Users\Housame\Documents\OOP\HousameOueslati-Labb5\HousameOueslati-Labb5\bin\Debug\HousameOueslati-Labb5.exe.config
+C:\Users\Housame\Documents\OOP\HousameOueslati-Labb5\HousameOueslati-Labb5\bin\Debug\HousameOueslati-Labb5.exe
+C:\Users\Housame\Documents\OOP\HousameOueslati-Labb5\HousameOueslati-Labb5\bin\Debug\HousameOueslati-Labb5.pdb
+C:\Users\Housame\Documents\OOP\HousameOueslati-Labb5\HousameOueslati-Labb5\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Housame\Documents\OOP\HousameOueslati-Labb5\HousameOueslati-Labb5\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Housame\Documents\OOP\HousameOueslati-Labb5\HousameOueslati-Labb5\obj\Debug\HousameOueslati-Labb5.csprojResolveAssemblyReference.cache
+C:\Users\Housame\Documents\OOP\HousameOueslati-Labb5\HousameOueslati-Labb5\obj\Debug\HousameOueslati-Labb5.exe
+C:\Users\Housame\Documents\OOP\HousameOueslati-Labb5\HousameOueslati-Labb5\obj\Debug\HousameOueslati-Labb5.pdb

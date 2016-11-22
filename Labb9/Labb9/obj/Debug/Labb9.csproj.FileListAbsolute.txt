@@ -1,0 +1,6 @@
+C:\Users\Housame\Documents\OOP\Labb9\Labb9\bin\Debug\Labb9.exe.config
+C:\Users\Housame\Documents\OOP\Labb9\Labb9\obj\Debug\Labb9.csprojResolveAssemblyReference.cache
+C:\Users\Housame\Documents\OOP\Labb9\Labb9\bin\Debug\Labb9.exe
+C:\Users\Housame\Documents\OOP\Labb9\Labb9\bin\Debug\Labb9.pdb
+C:\Users\Housame\Documents\OOP\Labb9\Labb9\obj\Debug\Labb9.exe
+C:\Users\Housame\Documents\OOP\Labb9\Labb9\obj\Debug\Labb9.pdb
