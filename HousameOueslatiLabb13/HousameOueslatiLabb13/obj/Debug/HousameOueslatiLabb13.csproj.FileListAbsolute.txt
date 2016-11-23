@@ -6,3 +6,11 @@ C:\Users\Housame\Documents\OOP\HousameOueslatiLabb13\HousameOueslatiLabb13\bin\D
 C:\Users\Housame\Documents\OOP\HousameOueslatiLabb13\HousameOueslatiLabb13\obj\Debug\HousameOueslatiLabb13.csprojResolveAssemblyReference.cache
 C:\Users\Housame\Documents\OOP\HousameOueslatiLabb13\HousameOueslatiLabb13\obj\Debug\HousameOueslatiLabb13.exe
 C:\Users\Housame\Documents\OOP\HousameOueslatiLabb13\HousameOueslatiLabb13\obj\Debug\HousameOueslatiLabb13.pdb
+C:\Users\Housame\Documents\OOP Labbar\HousameOueslatiLabb13\HousameOueslatiLabb13\bin\Debug\HousameOueslatiLabb13.exe.config
+C:\Users\Housame\Documents\OOP Labbar\HousameOueslatiLabb13\HousameOueslatiLabb13\obj\Debug\HousameOueslatiLabb13.exe
+C:\Users\Housame\Documents\OOP Labbar\HousameOueslatiLabb13\HousameOueslatiLabb13\obj\Debug\HousameOueslatiLabb13.pdb
+C:\Users\Housame\Documents\OOP Labbar\HousameOueslatiLabb13\HousameOueslatiLabb13\bin\Debug\HousameOueslatiLabb13.exe
+C:\Users\Housame\Documents\OOP Labbar\HousameOueslatiLabb13\HousameOueslatiLabb13\bin\Debug\HousameOueslatiLabb13.pdb
+C:\Users\Housame\Documents\OOP Labbar\HousameOueslatiLabb13\HousameOueslatiLabb13\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Housame\Documents\OOP Labbar\HousameOueslatiLabb13\HousameOueslatiLabb13\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Housame\Documents\OOP Labbar\HousameOueslatiLabb13\HousameOueslatiLabb13\obj\Debug\HousameOueslatiLabb13.csprojResolveAssemblyReference.cache

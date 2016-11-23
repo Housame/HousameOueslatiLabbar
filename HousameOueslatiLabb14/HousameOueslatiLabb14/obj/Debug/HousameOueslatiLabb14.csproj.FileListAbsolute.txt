@@ -4,3 +4,6 @@ C:\Users\Housame\Documents\OOP\HousameOueslatiLabb14\HousameOueslatiLabb14\bin\D
 C:\Users\Housame\Documents\OOP\HousameOueslatiLabb14\HousameOueslatiLabb14\obj\Debug\HousameOueslatiLabb14.csprojResolveAssemblyReference.cache
 C:\Users\Housame\Documents\OOP\HousameOueslatiLabb14\HousameOueslatiLabb14\obj\Debug\HousameOueslatiLabb14.exe
 C:\Users\Housame\Documents\OOP\HousameOueslatiLabb14\HousameOueslatiLabb14\obj\Debug\HousameOueslatiLabb14.pdb
+C:\Users\Housame\Documents\OOP Labbar\HousameOueslatiLabb14\HousameOueslatiLabb14\bin\Debug\HousameOueslatiLabb14.exe.config
+C:\Users\Housame\Documents\OOP Labbar\HousameOueslatiLabb14\HousameOueslatiLabb14\obj\Debug\HousameOueslatiLabb14.exe
+C:\Users\Housame\Documents\OOP Labbar\HousameOueslatiLabb14\HousameOueslatiLabb14\obj\Debug\HousameOueslatiLabb14.pdb

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace HousameOueslatiLabb13.GUI
 {
-    public delegate void PrintErrorMsg();
+    
 
     class Events
     {
@@ -40,7 +40,7 @@ namespace HousameOueslatiLabb13.GUI
             Runtime.ClearOneLine();
             Console.WriteLine("Make sure that you put in a year Ex. 2016");
             Runtime.Timer(1);
-                  
+            
         }
 
         public void PriceErrorMsg()

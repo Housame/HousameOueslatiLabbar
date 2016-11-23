@@ -6,3 +6,6 @@ C:\Users\Housame\Documents\OOP\HousameOueslati-Labb7\HousameOueslati-Labb7\obj\D
 C:\Users\Housame\Documents\OOP\HousameOueslati-Labb7\HousameOueslati-Labb7\obj\Debug\HousameOueslati-Labb7.pdb
 C:\Users\Housame\Documents\OOP\HousameOueslati-Labb7\HousameOueslati-Labb7\bin\Debug\Newtonsoft.Json.dll
 C:\Users\Housame\Documents\OOP\HousameOueslati-Labb7\HousameOueslati-Labb7\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Housame\Documents\OOP Labbar\HousameOueslati-Labb7\HousameOueslati-Labb7\bin\Debug\HousameOueslati-Labb7.exe.config
+C:\Users\Housame\Documents\OOP Labbar\HousameOueslati-Labb7\HousameOueslati-Labb7\obj\Debug\HousameOueslati-Labb7.exe
+C:\Users\Housame\Documents\OOP Labbar\HousameOueslati-Labb7\HousameOueslati-Labb7\obj\Debug\HousameOueslati-Labb7.pdb

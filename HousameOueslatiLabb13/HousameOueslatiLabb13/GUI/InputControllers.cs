@@ -3,6 +3,7 @@ using System;
 
 namespace HousameOueslatiLabb13.GUI
 {
+    public delegate void PrintErrorMsg();
     internal class InputControllers
     {
         Events myEvent = new Events();
